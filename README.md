@@ -1,4 +1,4 @@
-# Autograding Hello World em C/C++
+# Autograding Ola Mundo em C/C++
 
 ## Instruções
 
